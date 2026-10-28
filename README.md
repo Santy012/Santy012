@@ -14,7 +14,7 @@ Computer Science and Artificial Intelligence student at Universidad Sergio Arbol
 | [bike-sharing](https://github.com/Santy012/bike-sharing) | Bike-sharing demand forecasting (UCI dataset) compared by horizon — next hour, next day and full month — against naive baselines. Tuned XGBoost reaches 11.5 % WAPE one hour ahead. With Sara Romero. | Python, statsmodels, scikit-learn, XGBoost |
 | [olist-riesgo-productos](https://github.com/Santy012/olist-riesgo-productos) | Pre-launch risk of e-commerce products (Olist data): four classifiers against a simple category baseline, product segmentation and a FastAPI service with a traffic-light score. With Catalina Gutiérrez and Camilo Millán. | Python, scikit-learn, FastAPI |
 | [qcnn-mnist](https://github.com/Santy012/qcnn-mnist) | Study of a hybrid quantum convolutional neural network on MNIST: three iterations (10 and 16 qubits), ablations and classical controls under a common protocol with three seeds. | Python, PennyLane, JAX |
-| [generos-musicales](https://github.com/Santy012/generos-musicales) | Music genre classification from MFCCs: dense network vs. LSTM on GTZAN with an artist-disjoint split, extended with salsa, vallenato, reggaeton and Spanish rock to test whether the model learns the genre or the recording source. | Python, TensorFlow, librosa |
+| [generos-musicales](https://github.com/Santy012/generos-musicales) | Music genre classification from MFCCs: dense network vs. LSTM on GTZAN with an artist-disjoint split, extended with salsa, vallenato, reggaeton and Spanish rock. Shows that MFCC models learn the recording source as much as the genre. | Python, TensorFlow, librosa |
 
 ## Software
 
